@@ -2,6 +2,9 @@ body {
     margin: 0;
     color: #6a6f8c;
     background: url("../assets/bg-login.png") no-repeat center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
     background-size: cover;
     font: 600 16px/18px 'Open Sans', sans-serif
 }
