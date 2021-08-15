@@ -134,10 +134,10 @@ iframe {
   padding: 15px;
 
   background: url("../assets/contact-bg.png") no-repeat center;
-  background: -webkit-linear-gradient(left, #0072ff, #00c6ff);
-  background: -o-linear-gradient(left, #0072ff, #00c6ff);
-  background: -moz-linear-gradient(left, #0072ff, #00c6ff);
-  background: linear-gradient(left, #0072ff, #00c6ff);
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 
   display: -webkit-box;
   display: -webkit-flex;
