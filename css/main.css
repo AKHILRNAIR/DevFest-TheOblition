@@ -133,7 +133,7 @@ iframe {
   min-height: 100%;
   padding: 15px;
 
-  background: #009bff;
+  background: url("../assets/contact-bg") no-repeat;
   background: -webkit-linear-gradient(left, #0072ff, #00c6ff);
   background: -o-linear-gradient(left, #0072ff, #00c6ff);
   background: -moz-linear-gradient(left, #0072ff, #00c6ff);
